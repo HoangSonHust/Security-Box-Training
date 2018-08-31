@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BTT4_PY1", "BTT4_PY1\BTT4_PY1.pyproj", "{874EB0AB-E986-4C89-A822-44CE38C1A969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874EB0AB-E986-4C89-A822-44CE38C1A969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874EB0AB-E986-4C89-A822-44CE38C1A969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F889393F-7975-4BD0-8E12-FEE8A91C4144}
+	EndGlobalSection
+EndGlobal

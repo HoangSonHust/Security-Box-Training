@@ -1,0 +1,7 @@
+﻿  menu.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt4\btt4 (btt3 update)\btt3\connectsqlite.h(55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt4\btt4 (btt3 update)\btt3\connectsqlite.h(57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt4\btt4 (btt3 update)\btt3\connectsqlite.h(95): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt4\btt4 (btt3 update)\btt3\connectsqlite.h(98): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt4\btt4 (btt3 update)\btt3\menu.cpp(180): warning C4101: 'b': unreferenced local variable
+  BTT3.vcxproj -> C:\Users\Hoang Son\Desktop\git repos\SecurityBoxTrainig\BTT4\BTT4 (BTT3 UPDATE)\x64\Debug\BTT3.exe

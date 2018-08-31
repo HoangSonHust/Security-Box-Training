@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\other">
+      <UniqueIdentifier>{50c3aadd-414c-495b-9740-a321d177b199}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\OTHER">
+      <UniqueIdentifier>{8b4ee3c6-0c33-42eb-85e2-9b7962882c49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MODEL">
+      <UniqueIdentifier>{4dab8507-7f60-4f9b-9996-abd06f75c414}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\VIEW">
+      <UniqueIdentifier>{bf09f7f5-ad74-4f77-a300-a24bfe71ea45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CONTROLLER">
+      <UniqueIdentifier>{eaabbd9f-8bfd-429d-a948-9da9eb6f1a4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MODEL">
+      <UniqueIdentifier>{cbaee88b-3459-4015-b4c5-0b42c695754f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\VIEW">
+      <UniqueIdentifier>{83dc3ba0-bbcd-41ef-9586-cae5e2a6ea33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\CONTROLLER">
+      <UniqueIdentifier>{0150de36-bb0b-4303-82eb-19c742f5513b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\VIEW\NewFilter1">
+      <UniqueIdentifier>{0f960154-aae0-4b29-926a-2858e155ddf4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="RequestDislayMesswithFriendGUI.cpp">
+      <Filter>Source Files\VIEW</Filter>
+    </ClCompile>
+    <ClCompile Include="SentMessGUI.cpp">
+      <Filter>Source Files\VIEW</Filter>
+    </ClCompile>
+    <ClCompile Include="userInfo.cpp">
+      <Filter>Source Files\MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="UserMessInfo.cpp">
+      <Filter>Source Files\MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="LogInEntity.cpp">
+      <Filter>Source Files\OTHER</Filter>
+    </ClCompile>
+    <ClCompile Include="sqlite3.c">
+      <Filter>Source Files\OTHER</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files\OTHER</Filter>
+    </ClCompile>
+    <ClCompile Include="testSQLite.cpp">
+      <Filter>Source Files\OTHER</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Source Files\CONTROLLER</Filter>
+    </ClCompile>
+    <ClCompile Include="SeenMessGUI.cpp">
+      <Filter>Source Files\VIEW</Filter>
+    </ClCompile>
+    <ClCompile Include="ConnectSQLite.cpp">
+      <Filter>Source Files\MODEL</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayMessUserSentGUI.cpp">
+      <Filter>Source Files\VIEW</Filter>
+    </ClCompile>
+    <ClCompile Include="AddFriendGUI.cpp">
+      <Filter>Source Files\VIEW\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="BlockFriendGUI.cpp">
+      <Filter>Source Files\VIEW\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayFriendListGUI.cpp">
+      <Filter>Source Files\VIEW\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="LogInGUI.cpp">
+      <Filter>Source Files\VIEW\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="LogOutGUI.cpp">
+      <Filter>Source Files\VIEW\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\VIEW\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files\VIEW\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="RegisterGUI.cpp">
+      <Filter>Source Files\VIEW\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="ManageFriendsInformationGUI.cpp">
+      <Filter>Source Files\VIEW</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AddFriendGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockFriendGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayFriendListGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="LogInGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="LogOutGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="RegisterGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="RequestDislayMesswithFriendGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="SentMessGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="ConnectSQLite.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+    <ClInclude Include="LogInEntity.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+    <ClInclude Include="sqlite3.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+    <ClInclude Include="testSQLite.h">
+      <Filter>Header Files\other</Filter>
+    </ClInclude>
+    <ClInclude Include="userInfo.h">
+      <Filter>Header Files\MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="UserMessInfo.h">
+      <Filter>Header Files\MODEL</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>Header Files\CONTROLLER</Filter>
+    </ClInclude>
+    <ClInclude Include="SeenMessGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayMessUserSentGUI.h">
+      <Filter>Header Files\VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="ManageFriendsInformationGUI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="List.sqlite" />
+  </ItemGroup>
+</Project>

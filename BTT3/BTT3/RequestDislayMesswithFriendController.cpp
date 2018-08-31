@@ -1,0 +1,17 @@
+#include "RequestDislayMesswithFriendController.h"
+userInfo userInfo__RequestDislayMesswithFriendController;
+UserMessInfo UserMessInfo__RequestDislayMesswithFriendController;
+void RequestDislayMesswithFriendController::RequestDislayMesswithFriend(string userID, string FriendName)
+{
+	UserMessInfo__RequestDislayMesswithFriendController.RequestDislayMesswithFriend(userID, userInfo__RequestDislayMesswithFriendController.TakeUserID(FriendName));
+	
+}
+
+RequestDislayMesswithFriendController::RequestDislayMesswithFriendController()
+{
+}
+
+
+RequestDislayMesswithFriendController::~RequestDislayMesswithFriendController()
+{
+}

@@ -1,0 +1,95 @@
+﻿  AddFriendController.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  AddFriendGUI.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  BlockFriendController.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  BlockFriendGUI.cpp
+  ConnectSQLite.cpp
+  DisplayDetailMessController.cpp
+  DisplayDetailMessGUI.cpp
+  DisplayFriendListController.cpp
+  DisplayFriendListGUI.cpp
+  LogInController.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LogInEntity.cpp
+  LogInGUI.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LogOutController.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LogOutGUI.cpp
+  Main.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\main.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  menu.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  RegisterController.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  RegisterGUI.cpp
+  RequestDislayMesswithFriendController.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  RequestDislayMesswithFriendGUI.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\blockfriendcontroller.cpp(41): warning C4715: 'BlockFriendController::CheckFriendName': not all control paths return a value
+  Compiling...
+  SentMessegeController.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SentMessGUI.cpp
+  stdafx.cpp
+  testSQLite.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\testsqlite.h(22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\testsqlite.h(25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  userInfo.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  UserMessInfo.cpp
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(112): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang son\desktop\git repos\securityboxtrainig\btt3\btt3\connectsqlite.h(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  sqlite3.c
+  BTT3.vcxproj -> C:\Users\Hoang Son\Desktop\git repos\SecurityBoxTrainig\BTT3\x64\Debug\BTT3.exe
